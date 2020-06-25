@@ -63,3 +63,6 @@ Please feel free to submit a PR with your OSS (Package, App ...etc.), or OSS fro
 
 - [Dep](https://probot.github.io/apps/dep/) - A dependency manager for your Pull Requests.
 - [Review Me](https://github.com/z0al/probot-review-me) - A GitHub App built with probot that helps you to decide when a pull request is ready for review based on its statuses.
+## Helpful apps
+
+- [Wanassa](https://github.com/DedSecTeam17/Wanasa-App) - simple video call application using flutter+firebase+agora
